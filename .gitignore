@@ -1,0 +1,11 @@
+templates
+module-repo
+target
+.ropeproject
+.localbox
+.dropbox
+debug.txt
+*.ini
+*.log
+*.pyc
+*.sis
